@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Paranoïa Store</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>PARANOÏA</h1>
+<p>Streetwear store</p>
+
+<a href="products.html">Ver productos</a>
+
+</body>
+</html>
